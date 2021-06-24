@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://pmNiko.github.io/react-ts-create-react-app",
+  "record deploy": "cambiar el homepage por el dommain comprado para acceder",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
