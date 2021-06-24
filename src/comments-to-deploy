@@ -1,0 +1,7 @@
+
+  "record deploy": "cambiar el homepage por el dommain comprado para acceder",
+
+
+
+  "scripts": {
+    "predeploy": "npm run build && echo 'dommain.com' > ./build/CNAME",
